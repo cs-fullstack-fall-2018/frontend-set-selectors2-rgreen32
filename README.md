@@ -1,4 +1,4 @@
-# Frontend_Set_Selectors1
+# Frontend_Set_Selectors2
 
 Paste the text below into a project and use ONLY javascript to complete the questions below.
 ```javascript
